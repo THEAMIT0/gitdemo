@@ -1,4 +1,4 @@
 # gitdemo
-my name is amit
+konnichiwa
 <br>
 first git repo
